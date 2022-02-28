@@ -1,3 +1,6 @@
-#Folders createds by .NET runtime / debug
+#Folders created by .NET runtime / debug
 */bin/
 */obj/
+
+#Folders created by Visual Studio 2019 Community
+.vs/
